@@ -1,0 +1,18 @@
+body.dark-mode .footer {
+    background-color: #222;
+    color: #fff;
+}
+.footer {
+    background-color: #f8f9fa;
+}
+
+.footer a.footer-link {
+    color: #f5f1f1;
+}
+
+.footer a.footer-link:hover {
+    color: #fff;
+}
+
+
+

@@ -1,0 +1,40 @@
+#meteo-widget {
+    position: fixed;
+    border: 1px solid;
+    padding: 15px;
+    margin-top: 60px;
+    margin-bottom: 2px;
+    width: 18%;
+    right: 20px; 
+    top: 40px; /* Distance par rapport au haut de la page */
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 15px;
+}
+
+#meteo-form {
+    display: flex;
+    gap: 5px;
+    margin-bottom: 2px;
+ 
+}
+
+#meteo-form input {
+    flex: 1;
+    padding: 1px;
+}
+
+#meteo-content {
+    text-align: center;
+}
+
+.forecast-row {
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+}
+
+.forecast-day {
+    text-align: center;
+}
+

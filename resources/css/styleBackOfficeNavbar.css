@@ -1,0 +1,16 @@
+/* thème clair */
+.navbar {
+    background-color: #f8f9fa;
+}
+
+
+/* Navbar sombre */
+.navbar.dark-mode {
+    background-color: #343a40;
+}
+
+/* Autres éléments sombres */
+button.dark-mode, .navbar-dark .navbar-nav .nav-link {
+    color: white;
+}
+

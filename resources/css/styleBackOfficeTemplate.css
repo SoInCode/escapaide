@@ -1,0 +1,52 @@
+body.dark-mode {
+    background-color: #121212;
+    color: #e0e0e0;
+}
+
+body.dark-mode .card {
+    background-color: #333;
+    color: white;
+}
+
+body.dark-mode .btn {
+    background-color: #444;
+    color: white;
+}
+
+body.dark-mode .btn:hover {
+    background-color: #555;
+}
+
+body.dark-mode .navbar {
+    background-color: #343a40 ;
+    color: white; 
+}
+
+body.dark-mode .navbar .navbar-brand {
+    color: white; 
+}
+
+body.dark-mode .navbar .nav-link {
+    color: white; 
+}
+
+body.dark-mode .navbar .navbar-toggler-icon {
+    background-color: white;
+}
+body.dark-mode .footer {
+    background-color: #343a40 ;
+    color: white; 
+}
+body.dark-mode .footer {
+    background-color: #222;
+    color: #fff ;
+}
+
+body.dark-mode .footer a.footer-link {
+    color: #bbb;
+}
+
+body.dark-mode .footer a.footer-link:hover {
+    color: #fff;
+}
+

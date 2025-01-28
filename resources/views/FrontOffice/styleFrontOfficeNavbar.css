@@ -1,0 +1,29 @@
+/* thème clair */
+.navbar {
+    background-color: #f8f9fa;
+}
+
+/* Navbar sombre */
+.navbar.dark-mode {
+    background-color: #343a40;
+}
+
+/* Autres éléments sombres */
+button.dark-mode, .navbar-dark .navbar-nav .nav-link {
+    color: white;
+}
+
+.dark-mode .modal-content {
+    background-color: grey; /* Fond sombre */
+    color: #ffffff;          /* Texte clair */
+}
+
+.dark-mode .btn-primary {
+    background-color: #444444; /* Bouton sombre */
+    border-color: #444444;     /* Bordure sombre */
+}
+
+.dark-mode .btn-primary:hover {
+    background-color: #555555; /* Bouton sombre en hover */
+}
+
