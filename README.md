@@ -6,7 +6,7 @@
 
 Escap'Aide est une plateforme qui a pour mission de permettre aux personnes en situation de handicap de participer pleinement à la vie culturelle et sociale. Inspirée par une expérience personnelle avec la déficience visuelle, Escap'aide allie expertise technique et engagement social pour promouvoir l'inclusion.
 
-Ce projet a été réalisé dans le cadre d'une formation en Développement Web et Web Mobile, avec une approche centrée sur l'utilisateur et des fonctionnalités conçues pour répondre aux besoins spécifiques des personnes en situation de handicap.
+Ce projet a été réalisé en fin de formation en Développement Web et Web Mobile, avec une approche centrée sur l'utilisateur et des fonctionnalités conçues pour répondre aux besoins spécifiques des personnes en situation de handicap.
 
 ---
 
